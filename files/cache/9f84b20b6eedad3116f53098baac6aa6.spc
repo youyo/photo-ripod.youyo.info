@@ -1,0 +1,1 @@
+a:3:{s:3:"url";s:45:"http://photo-ripod.youyo.info/index.php?cID=1";s:8:"feed_url";s:94:"http://photo-ripod.youyo.info/index.php/tools/blocks/page_list/rss?bID=472&cID=1&arHandle=Main";s:5:"build";s:14:"20090627192103";}

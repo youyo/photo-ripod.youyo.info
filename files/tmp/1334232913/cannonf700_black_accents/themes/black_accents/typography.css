@@ -1,0 +1,64 @@
+body { 
+	/* customize_body */ font: 12px Arial, Helvetica, sans-serif; /* customize_body */
+	/* customize_body */ color: #484848; /* customize_body */
+}
+
+img {border: 0px}
+
+a,a:visited,a:active {
+	/* customize_link */ color:#000000; /* customize_link */
+	text-decoration:underline;
+}
+
+a:hover {
+	text-decoration:none;
+	/* customize_link_hover */ color: #000000; /* customize_link_hover */
+}
+
+#container h1 {
+	/* customize_h1_font */font:bold 12px Verdana, Arial, Helvetica, sans-serif;/* customize_h1_font */
+	/* customize_h1_color */color:#ffffff; /* customize_h1_color */
+	/* customize_h1_background */background:#000000; /* customize_h1_background */
+	text-transform:uppercase;
+	padding:5px 0px 5px 10px;
+	margin:0px 0px 6px 0px;
+}
+
+#container h2 {
+	/* customize_h2_font */font:bold 11px Verdana, Arial, Helvetica, sans-serif; /* customize_h2_font */
+	/* customize_h2_color */color:#ffffff; /* customize_h2_color */
+	/* customize_h2_background */background:#000000; /* customize_h2_background */
+	text-transform:uppercase;
+	padding:5px 0px 5px 10px;
+	margin:0px 0px 6px 0px;
+}
+
+#container h3 {
+	font: bold 12px Verdana, Arial, Helvetica, sans-serif;
+	color:#000000;
+	padding:0 0 5px 3px;
+}
+
+#container h4 {
+	font:bold 10px Verdana, Arial, Helvetica, sans-serif;
+	color:#000000;
+	margin:0px 0px 5px 3px;
+}
+
+#container h5 {
+	font:16px Myriad Pro, Arial, Helvetica, sans-serif;
+	color:#000000;
+	font-weight:100;
+	padding:0px 0px 5px 3px;
+	border-bottom:1px dotted #000000;
+	margin:5px 0px 10px 0px;
+}
+
+
+#container h6 {
+	font:14px Myriad Pro, Arial, Helvetica, sans-serif;
+	color:#000000;
+	font-weight:100;
+	padding:0px 0px 5px 3px;
+	margin:5px 0px 10px 0px;
+}

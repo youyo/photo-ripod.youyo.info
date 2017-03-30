@@ -1,0 +1,262 @@
+/* CSS Document */
+
+body {
+	font:12px Arial, Helvetica, sans-serif;
+	color:#484848;
+	background:#d3d3d3 url(images/top_bg.gif) repeat-x;
+	margin:0px;
+	padding:0px;
+}
+
+#container {
+	width:1128px;
+	margin:0px auto;
+	margin-top:100px;
+}
+
+#container .logo {
+	font:40px Arial, Helvetica, sans-serif;
+	color:#ffffff;
+	width:auto;
+	height:33px;
+	position:absolute;
+	top:20px;
+	left:133px;
+}
+#container .logo a{
+	font:40px Arial, Helvetica, sans-serif;
+	color:#FFFFFF;
+	text-decoration:none
+}
+#container .logo a:hover{
+	text-decoration:underline;
+}
+
+#container .container-left {
+	width:290px;
+	float:left;
+	position:relative;
+}
+
+#container .container-center {
+	width:600px;
+	float:left;
+	overflow:hidden;
+	position:relative;
+}
+
+#container .container-right {
+	width:238px;
+	float:left;
+	position:relative;
+}
+#container .header {
+	width:1128px;
+}
+
+#container .leftzone {
+	padding:10px 0px 0px 60px;
+}
+
+#container .top-menuzone {
+	height:25px;
+	width:1065px;
+	margin-left:60px;
+	background:url(images/topmenu.jpg) no-repeat;
+}
+
+#container .bannerzone {
+	background:#ffffff url(images/bannertop.jpg) left top no-repeat;
+	width:600px;
+	overflow:hidden;
+	margin-top:10px;
+	padding:15px 0px 7px 0px;	
+}
+
+#container .bannerzone p{
+	padding:0 15px 0 15px;
+}
+
+#container .rightzone {
+	padding:10px 34px 0px 12px;
+}
+
+#container .column1 {
+	width:204px;
+	float:left;
+	background:#ffffff;
+	padding:6px;
+	margin:0px 0px 12px 0px;
+	position:relative;
+}
+
+#container .column2 {
+	width:204px;
+	float:left;
+	padding:6px;
+	background:#ffffff;
+	margin:0px 0px 12px 0px;
+	position:relative;
+}
+
+.footer {
+	background:url(images/footer_bg.gif) repeat-x;
+}
+
+.footer-inside {
+	width:1003px;
+	height:88px;
+	margin:0px auto;
+}
+
+.footer-inside p{padding:70px 0 0 0;color:#FFF;text-align:center;}
+.footer-inside p a{ color:#FFF;}
+
+#container .clear {
+	clear:both;
+	margin:0px;
+	padding:0px;
+}
+
+/*	Text Style Start Here
+	See Typogrophy.css	*/
+
+#container h5 {
+	font:15px Myriad Pro, Arial, Helvetica, sans-serif;
+	color:#000000;
+	font-weight:100;
+	padding:0px 0px 5px 0px;
+	border-bottom:1px dotted #005787;
+	margin:0px 0px 10px 0px;
+}
+
+#container h6 {
+	font:17px Myriad Pro, Arial, Helvetica, sans-serif;
+	color:#000000;
+	font-weight:100;
+	padding:0px 0px 5px 0px;
+	margin:0px 0px 10px 0px;
+}
+/*	Text Style End Here	*/
+
+
+/* Menu Styles Start Here  */
+
+a {
+	color:#000000;
+	text-decoration:underline;
+}
+
+a:hover {
+	text-decoration:none;
+}
+
+.mainmenu {
+	text-align:center;
+	padding:5px 0px 0px 0px;
+}
+
+.mainmenu ul {
+	margin:0px;
+	padding:0px;
+}
+
+.mainmenu li {
+	display:inline;
+	text-transform:uppercase;
+	padding:0px 10px 0px 10px;
+}
+
+.mainmenu li a {
+	font:bold 11px Verdana, Arial, Helvetica, sans-serif;
+	color:#000000;
+	text-decoration:none;
+}
+
+.mainmenu li a:hover {
+	color:#696969;
+	text-decoration:none;
+}
+
+
+.side_nav {	margin: 10px 0 10px 0;}
+
+.side_nav ul {
+	margin:0;
+	list-style-type:none;
+	width: 200px; 
+	padding: 10px 0 10px 0; 
+	background: #000000 }
+
+	
+.side_nav li {
+	margin:0;
+	padding:0; 
+	color: #fff; 
+	font-size: 1.3em; 
+	border-bottom:1px solid #fff;
+	background: #696969;}
+	
+.side_nav a, .side_nav a:visited {
+	color:#fff; 
+	text-decoration:none; 
+	display:block; 
+	padding:5px 5px 5px 20px;
+	background: #696969; 
+	width:175px;}
+	
+.side_nav a:hover {background: #000000; color:#fff;}
+
+/* Menu Style End Here  */
+/* Left, Right, Full Page Type Styles Start Here	*/
+
+#container .leftpage-center {
+	width:830px;
+	float:left;
+	position:relative;
+}
+
+#container .leftpage-bannerzone {
+	background:#ffffff url(images/long_bannertop.jpg) left top no-repeat;
+	width:830px;
+	margin-top:10px;
+	padding:20px 0px 7px 0px;	
+}
+
+#container .rightpage-center {
+	width:830px;
+	margin-left:60px;
+	float:left;
+	position:relative;
+}
+#container .rightpage-bannerzone {
+	background:#ffffff url(images/long_bannertop.jpg) left top no-repeat;
+	width:830px;
+	margin-top:10px;
+	padding:20px 0px 10px 0px;
+}
+
+#container .fullpage-center {
+	width:1065px;
+	margin-left:60px;
+}
+
+#container .fullpage-bannerzone {
+	background:#ffffff url(images/full_bannertop.jpg) left top no-repeat;
+	width:1065px;
+	margin-top:10px;
+	padding:20px 0px 10px 0px;
+}
+
+#container .insideworkzone {
+	background:#ffffff;
+	padding:15px;
+}
+
+#container .project-img {
+	float:right;
+	margin-left:20px;
+	border: 6px solid #b0a48b;
+}
+
+/* The End 	*/

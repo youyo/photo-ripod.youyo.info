@@ -1,0 +1,7 @@
+2.1 - Updated theme to be compatible with C5.5's new edit bar. 12/18/2011.
+2.01 - Updated theme to newest styles.css. Added dynamic language call via php to html tag. Changed semicolons to commas in mobile viewport. Updated functions.js to latest version on GitHub. 9-16-11
+2.00 - Updated HTML5 Reset Concrete5 theme to conincide with version 2 via HTML5Reset.org. Much improved. 4-20-11
+1.02 - Updated HTML5 Reset Concrete5 theme to be current with the latest release on HTML5Reset.org. Some housecleaning. Added attribution. 
+1.01 - Fixed spelling error in Description.txt
+
+1.00 - HTML5Reset.org Concrete5 theme initial release

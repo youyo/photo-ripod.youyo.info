@@ -1,0 +1,1 @@
+a:3:{s:3:"url";s:56:"http://concrete5-japan.org/about/examples/rss_displayer/";s:8:"feed_url";s:43:"http://feeds2.feedburner.com/concrete5japan";s:5:"build";s:14:"20090627192103";}
