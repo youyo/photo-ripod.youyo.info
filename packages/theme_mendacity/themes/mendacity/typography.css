@@ -1,0 +1,56 @@
+
+
+body {
+	/* customize_font_color */ color: #555555; /* customize_font_color */ 
+	/* customize_body_font */ font: normal normal .9em/1.4em "Helvetica Neue", Arial, Helvetica, Geneva, sans-serif; /* customize_body_font */
+	}
+	
+/************************************************
+*	Hyperlinks									*
+************************************************/
+
+ #templatemo_content  a:link, #templatemo_content  a:visited {
+	/* customize_link */ color: #3275d3; /* customize_link */
+	}
+#templatemo_content a:hover {
+	/* customize_link_hover */ color: orange; /* customize_link_hover */
+		text-decoration: none;
+
+	
+	}
+
+	h1,h2,h3,h4,h5,h6 {
+	font-variant: normal;
+	font-weight: normal;
+	font-style: normal;
+	text-align: left;
+	color: #3275d3;
+	text-shadow: #ccc 2px 2px 2px;
+	line-height: normal;
+	margin-top: 0;
+	font-family: Georgia, "Times New Roman", Times, serif;
+}
+
+h1 {
+	font-size: 250%;
+}
+
+h2 {
+	font-size: 225%;
+}
+
+h3 {
+	font-size: 200%;
+}
+
+h4 {
+	font-size: 175%;
+}
+
+h5 {
+	font-size: 150%;
+}
+
+h6 {
+	font-size: 125%;
+}

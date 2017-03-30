@@ -1,0 +1,21 @@
+body {
+/*customize_page_color*/	background-color: #deece1;/*customize_page_color*/
+
+}
+div#footer-wrapper,
+div#nav-wrapper {
+	/*customize_nav_and_footer_bar_color*/background-color: #ffffff;/*customize_nav_and_footer_bar_color*/
+}
+#logo h1 a {
+	/*customize_sitename_color*/color: #000000;/*customize_sitename_color*/
+}
+ul.nav-header  li a{
+	/*customize_header_nav_link_color*/color: #626262;/*customize_header_nav_link_color*/
+}
+ul.nav-header  li a.nav-selected {
+	/*customize_header_nav_active_color*/background-color: black;	/*customize_header_nav_active_color*/
+		/*customize_header_nav_text_active_color*/color: #ccc;/*customize_header_nav_text_active_color*/
+}
+div#ninesixty {
+	/*customize_body_text_color*/color: #3a3a3a;	/*customize_body_text_color*/
+}

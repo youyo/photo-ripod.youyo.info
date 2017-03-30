@@ -1,0 +1,2 @@
+Html5Reset.org Template for Concrete5
+This is a blank starter template for developers who want to use the HTML5Reset.org template with Concrete5.

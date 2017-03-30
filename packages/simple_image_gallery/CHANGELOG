@@ -1,0 +1,3 @@
+1.1.2 - Fixed "Divide By Zero" errors in Concrete 5.4.2 (thumbnail width/height controls were always disabled in the edit form)
+1.01 - Removed duplicate "border" attribute from image output
+1.0 - Initial Release

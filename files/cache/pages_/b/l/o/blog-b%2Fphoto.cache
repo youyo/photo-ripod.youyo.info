@@ -53,7 +53,7 @@ var CCM_REL = "";
 		<div class="content">
 	    <ul class="nav"><li class=""><a href="/" target="_self" class="">ホーム</a></li><li class=""><a href="/index.php/blog-a/" target="_self" class="">tama</a></li><li class="nav-path-selected"><a href="/index.php/blog-b/" target="_self" class="nav-path-selected">harumono</a></li><li class=""><a href="/index.php/heeero/" target="_self" class="">heeero</a></li></ul>
 <div id="HTMLBlock505" class="HTMLBlock">
-<script type="text/javascript" src="http://photo-ripod.youyo.info:2468/access/track.php"></script></div>		</div>
+<script type="text/javascript" src="http://photo-ripod.youyo.info/access/track.php"></script></div>		</div>
         </div>
 		<div class="content" id="main">
 			<div id="content">
