@@ -1,0 +1,4 @@
+1.0 - Initial release. August 10, 2010
+1.1 - Converted to html5, made custom styling possible in the dashboard, fixed menu styling for god old ie6 and ie7.
+1.1.1 - November 3, 2011 - Fixed typography css. Thanks @weyboat
+1.2 - December 27, 2011 - Support for concrete5 5.5
